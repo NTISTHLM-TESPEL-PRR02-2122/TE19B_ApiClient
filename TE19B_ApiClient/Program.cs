@@ -9,7 +9,10 @@ IRestResponse pokeResponse = pokeClient.Get(pokeRequest);
 Console.WriteLine(pokeResponse.Content);
 
 Console.ReadLine();
+<<<<<<< HEAD
 
 // Blajj
 // Blajj 2
 // Blajj 3
+=======
+>>>>>>> parent of 1eaaf15 (Test 1)
