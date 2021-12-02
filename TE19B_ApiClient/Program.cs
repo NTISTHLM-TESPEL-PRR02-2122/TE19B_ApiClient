@@ -11,4 +11,3 @@ Console.WriteLine(pokeResponse.Content);
 Console.ReadLine();
 
 // Blajj
-// Blajj 2
