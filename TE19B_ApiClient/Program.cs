@@ -10,4 +10,6 @@ Console.WriteLine(pokeResponse.Content);
 
 Console.ReadLine();
 
-//Bajs
+// Blajj 1
+// Blajj 2
+// Blajj 3
