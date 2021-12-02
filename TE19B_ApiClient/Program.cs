@@ -9,3 +9,5 @@ IRestResponse pokeResponse = pokeClient.Get(pokeRequest);
 Console.WriteLine(pokeResponse.Content);
 
 Console.ReadLine();
+
+//Bajs
